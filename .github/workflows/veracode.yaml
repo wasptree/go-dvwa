@@ -3,7 +3,7 @@ name: Veracode Scan Workflow
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   # Job 1: Veracode Auto Package
